@@ -1,1 +1,3 @@
 # codigo_como_paradigma_estetico_como_practica_artistica
+
+El siguiente documento intentará seguir un línea de investigación exploratoria sobre los procesos que nos llevaron a introducirnos en la practica del codear (coding) como experiencia y expresión artistica, cientifica y tecnologica, ya sea desde su virtud estetica como su paradigma poética para entender el arte de la programación computacional como una posibilidad de llevar a cabo la idea de compartir, aprender, enseñar y depurar la escritura de codigo como....
