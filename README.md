@@ -2,7 +2,7 @@
 
 sombreado en LaTeX (trabajo en proceso)
 
-[![Alt text](https://github.com/rstartdas/codigo_como_paradigma_estetico_como_practica_artistica/blob/master/img/Shader_in_LaTeX.png)](https://github.com/rstartdas/codigo_como_paradigma_estetico_como_practica_artistica/blob/master/img/Shader_in_LaTeX.png)
+[![Alt text](https://github.com/rstartdas/codigo_como_paradigma_estetico_como_practica_artistica/blob/master/img/Shader_in_LaTeX.png)](https://raw.githubusercontent.com/rstartdas/codigo_como_paradigma_estetico_como_practica_artistica/master/img/Shader_in_LaTeX.png?token=AP56HBVCAHXNUJFMEVPRT3LBC4SUM)
 
 
 
