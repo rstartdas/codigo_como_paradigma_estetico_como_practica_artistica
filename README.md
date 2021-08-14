@@ -1,9 +1,9 @@
-## codigo_como_paradigma_estetico_como_practica_artistica
+## Shader Kode
 
-[![Alt text](https://github.com/rstartdas/mycelium/blob/master/img/mycexxxxxx-jpg-peq.jpg)](https://rstartdas.github.io/mycelium/)
+sombreado en LaTeX (trabajo en proceso)
 
+[![Alt text](https://github.com/rstartdas/codigo_como_paradigma_estetico_como_practica_artistica/blob/master/img/Shader_in_LaTeX.png)](https://github.com/rstartdas/codigo_como_paradigma_estetico_como_practica_artistica/blob/master/img/Shader_in_LaTeX.png)
 
-El siguiente documento intentará seguir un línea de investigación exploratoria sobre los procesos que nos llevaron a introducirnos en la practica del codear (coding) como experiencia y expresión artistica, cientifica y tecnologica, ya sea desde su virtud estetica como su paradigma poética para entender el arte de la programación computacional como una posibilidad de llevar a cabo la idea de compartir, aprender, enseñar y depurar la escritura de codigo como....
 
 
 ```markdown
