@@ -1,7 +1,6 @@
 ## Shader Kode
 
-sombreado en LaTeX (trabajo en proceso)
-
+sombreado en LaTeX / Kreative K0d3
 [![Alt text](https://github.com/rstartdas/codigo_como_paradigma_estetico_como_practica_artistica/blob/master/img/Shader_in_LaTeX.png)](https://raw.githubusercontent.com/rstartdas/codigo_como_paradigma_estetico_como_practica_artistica/master/img/Shader_in_LaTeX.png?token=AP56HBVCAHXNUJFMEVPRT3LBC4SUM)
 
 
@@ -155,3 +154,4 @@ sombreado en LaTeX (trabajo en proceso)
 \maketitle
 \end{document}
 ```
+
